@@ -15,3 +15,6 @@ dist/
 
 # Database
 *.db
+
+# MCP
+.mcp.json
